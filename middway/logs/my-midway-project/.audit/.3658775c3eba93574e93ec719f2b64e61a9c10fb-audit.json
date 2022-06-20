@@ -1,0 +1,15 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 31
+  },
+  "auditLog": "C:\\Users\\WDH\\Desktop\\midway-project\\logs\\my-midway-project\\.audit\\.3658775c3eba93574e93ec719f2b64e61a9c10fb-audit.json",
+  "files": [
+    {
+      "date": 1655687978513,
+      "name": "C:\\Users\\WDH\\Desktop\\midway-project\\logs\\my-midway-project\\common-error.log.2022-06-20",
+      "hash": "2a6771ace7833b49bd71e575d59dae23"
+    }
+  ],
+  "hashType": "md5"
+}
